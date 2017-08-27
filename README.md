@@ -14,6 +14,9 @@ Call ScrollBody after the elements are created.
 <script>ScrollBody(".scroll-body", {});</script>
 ```
 
+## Demo
+https://ivyip.github.io/dragToScroll/
+
 ## Options
 You can try to override some default value by setting the options.
 e.g:
