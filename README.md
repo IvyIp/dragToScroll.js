@@ -11,7 +11,7 @@ Include dragToScroll.js.
 
 Call ScrollBody after the elements are created.
 ```
-<script>ScrollBody(".scroll-body", {});</script>
+<script>new ScrollBody(".scroll-body", {});</script>
 ```
 
 ## Demo
