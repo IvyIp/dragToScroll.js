@@ -21,7 +21,7 @@ https://ivyip.github.io/dragToScroll/
 You can try to override some default value by setting the options.
 e.g:
 ```
-<script>ScrollBody(".scroll-body", {scrollStep: 1, slideEnable: false});</script>
+<script>new ScrollBody(".scroll-body", {scrollStep: 1, slideEnable: false});</script>
 ```
 
 | Parameter | Description | Default |
